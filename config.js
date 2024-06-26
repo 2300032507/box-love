@@ -3,12 +3,12 @@ const CONFIG = {
 
     background: "background.jpg",
 
-    min1: "0Z5A6223.jpg",
-    min2: "0Z5A6273.jpg",
-    min3: "0Z5A6427.jpg",
-    min4: "0Z5A6434.jpg",
-    min5: "0Z5A6637.jpg",
-    min6: "0Z5A6700.jpg",
+    min1: "0Z5A6223.JPG",
+    min2: "0Z5A6273.JPG",
+    min3: "0Z5A6427.JPG",
+    min4: "0Z5A6434.JPG",
+    min5: "0Z5A6637.JPG",
+    min6: "0Z5A6700.JPG",
 
     max1: "m6.jpg",
     max2: "m1.jpg",
