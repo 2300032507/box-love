@@ -13,7 +13,7 @@ const CONFIG = {
     max1: "m6.jpg",
     max2: "m1.jpg",
     max3: "m10.jpg",
-    max4: "m4.webp",
-    max5: "m5.png",
+    max4: "m4.jpg",
+    max5: "m5.jpg",
     max6: "m2.jpg",
 }
